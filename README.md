@@ -1,9 +1,9 @@
-# Project 2 Starter Code
+# This is my local version control system
 
-This repository contains the starter code for Project 2!
+This project is a local version control system that has similar functionality to Git.
 
-For comprehensive documentation, see the Project 2 Spec (https://cs161.org/proj2/getting-started-coding/).
+This was designed to develop a better understanding of how Git and version control systems in general work.
 
-Write your implementation in `client/client.go`, and your tests in `client_test/client_test.go`.
+For comprehensive documentation, see the online spec (https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/index.html).
 
-To test your implementation, run `go test -v` inside of the `client_test` directory.
+Some of the functionality includes `init`, `add`, `commit`, `rm`, `log`, `global-log`, `find`, `status`, and `checkout`
